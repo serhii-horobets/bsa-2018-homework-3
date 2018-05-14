@@ -22,4 +22,4 @@ fight може приймати довільну кількість параме
 
 # Переглянути миттєво 
 
-https://jsbin.com/
+https://jsbin.com/nazedenogu/1/edit?js,console
